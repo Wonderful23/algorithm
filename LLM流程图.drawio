@@ -1,9 +1,54 @@
-<mxfile host="app.diagrams.net" modified="2024-02-21T15:19:37.154Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.76" version="23.1.5" etag="HsL5g_pHbzv9Cg71opSY" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-21T15:25:35.240Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.76" etag="QtixRGtDi8eIvtCQb8hu" version="23.1.5" type="github">
   <diagram name="第 1 页" id="bwos8VebtCxdZY15tWJo">
-    <mxGraphModel>
+    <mxGraphModel dx="1002" dy="569" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="pSoo9dvZVhWbjHIKry5y-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pSoo9dvZVhWbjHIKry5y-3" target="pSoo9dvZVhWbjHIKry5y-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pSoo9dvZVhWbjHIKry5y-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pSoo9dvZVhWbjHIKry5y-3" target="pSoo9dvZVhWbjHIKry5y-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pSoo9dvZVhWbjHIKry5y-3" value="提示工程" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="126" y="171" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pSoo9dvZVhWbjHIKry5y-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="pSoo9dvZVhWbjHIKry5y-4" target="pSoo9dvZVhWbjHIKry5y-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pSoo9dvZVhWbjHIKry5y-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pSoo9dvZVhWbjHIKry5y-4" target="pSoo9dvZVhWbjHIKry5y-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pSoo9dvZVhWbjHIKry5y-4" value="数据集构建" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="278" y="171" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pSoo9dvZVhWbjHIKry5y-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="pSoo9dvZVhWbjHIKry5y-5" target="pSoo9dvZVhWbjHIKry5y-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pSoo9dvZVhWbjHIKry5y-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pSoo9dvZVhWbjHIKry5y-5" target="pSoo9dvZVhWbjHIKry5y-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pSoo9dvZVhWbjHIKry5y-5" value="指令微调" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="430" y="171" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pSoo9dvZVhWbjHIKry5y-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pSoo9dvZVhWbjHIKry5y-6" target="pSoo9dvZVhWbjHIKry5y-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pSoo9dvZVhWbjHIKry5y-6" value="模型发布" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="582" y="171" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pSoo9dvZVhWbjHIKry5y-10" value="从业务需求和LLM特点出发，构建知识抽取的Prompt" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;" vertex="1" parent="1">
+          <mxGeometry x="126" y="295" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pSoo9dvZVhWbjHIKry5y-12" value="构建包含原子任务的中英文知识抽取指令微调数据集" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;align=left;" vertex="1" parent="1">
+          <mxGeometry x="278" y="295" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pSoo9dvZVhWbjHIKry5y-14" value="在服务器上利用PEFT方法进行指令微调训练" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;align=left;" vertex="1" parent="1">
+          <mxGeometry x="430" y="295" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pSoo9dvZVhWbjHIKry5y-16" value="在多种实验设定下充分测试LLM性能，并用FastChat发布模型" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;align=left;" vertex="1" parent="1">
+          <mxGeometry x="582" y="295" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
