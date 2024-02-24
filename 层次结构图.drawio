@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-24T03:28:34.929Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.76" etag="eNA8_Bu_GjZG4dEQUCvw" version="23.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-24T03:33:17.136Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.76" etag="IF6_QlW4ZTFWv4WhEBQy" version="23.1.5" type="github">
   <diagram name="第 1 页" id="WPeSKZ3zgi5uHqN3BZs9">
     <mxGraphModel dx="1002" dy="569" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -41,7 +41,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5Q7FV-45-rQ6y9RqwHLU-3" value="知&lt;br&gt;识&lt;br&gt;抽&lt;br&gt;取" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="324" y="279" width="42" height="114" as="geometry" />
+          <mxGeometry x="320" y="281" width="42" height="114" as="geometry" />
         </mxCell>
         <mxCell id="5Q7FV-45-rQ6y9RqwHLU-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5Q7FV-45-rQ6y9RqwHLU-4" target="5Q7FV-45-rQ6y9RqwHLU-24">
           <mxGeometry relative="1" as="geometry" />
@@ -53,7 +53,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5Q7FV-45-rQ6y9RqwHLU-4" value="结&lt;br&gt;果&lt;br&gt;融&lt;br&gt;合" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="434" y="279" width="42" height="114" as="geometry" />
+          <mxGeometry x="433" y="281" width="42" height="114" as="geometry" />
         </mxCell>
         <mxCell id="5Q7FV-45-rQ6y9RqwHLU-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5Q7FV-45-rQ6y9RqwHLU-5" target="5Q7FV-45-rQ6y9RqwHLU-29">
           <mxGeometry relative="1" as="geometry" />
@@ -65,7 +65,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5Q7FV-45-rQ6y9RqwHLU-5" value="数&lt;br&gt;据&lt;br&gt;管&lt;br&gt;理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="544" y="279" width="42" height="114" as="geometry" />
+          <mxGeometry x="543" y="281" width="42" height="114" as="geometry" />
         </mxCell>
         <mxCell id="5Q7FV-45-rQ6y9RqwHLU-10" value="用&lt;br&gt;户&lt;br&gt;注&lt;br&gt;册" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="183" y="437" width="28" height="159" as="geometry" />
@@ -77,31 +77,31 @@
           <mxGeometry x="253" y="437" width="28" height="159" as="geometry" />
         </mxCell>
         <mxCell id="5Q7FV-45-rQ6y9RqwHLU-17" value="基&lt;br&gt;于&lt;br&gt;知&lt;br&gt;识&lt;br&gt;抽&lt;br&gt;取&lt;br&gt;小&lt;br&gt;模&lt;br&gt;型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="296" y="437" width="28" height="159" as="geometry" />
+          <mxGeometry x="292" y="439" width="28" height="159" as="geometry" />
         </mxCell>
         <mxCell id="5Q7FV-45-rQ6y9RqwHLU-18" value="基&lt;br&gt;于&lt;br&gt;LLM&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="331" y="435" width="28" height="159" as="geometry" />
+          <mxGeometry x="327" y="437" width="28" height="159" as="geometry" />
         </mxCell>
         <mxCell id="5Q7FV-45-rQ6y9RqwHLU-19" value="基&lt;br&gt;于&lt;br&gt;融&lt;br&gt;合LLM&lt;br&gt;的&lt;br&gt;小&lt;br&gt;模&lt;br&gt;型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="366" y="437" width="28" height="159" as="geometry" />
+          <mxGeometry x="362" y="439" width="28" height="159" as="geometry" />
         </mxCell>
         <mxCell id="5Q7FV-45-rQ6y9RqwHLU-23" value="基&lt;br&gt;于&lt;br&gt;LLM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="406" y="435" width="28" height="159" as="geometry" />
+          <mxGeometry x="405" y="437" width="28" height="159" as="geometry" />
         </mxCell>
         <mxCell id="5Q7FV-45-rQ6y9RqwHLU-24" value="基&lt;br&gt;于&lt;br&gt;多&lt;br&gt;模&lt;br&gt;型&lt;br&gt;投&lt;br&gt;票" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="441" y="435" width="28" height="159" as="geometry" />
+          <mxGeometry x="440" y="437" width="28" height="159" as="geometry" />
         </mxCell>
         <mxCell id="5Q7FV-45-rQ6y9RqwHLU-25" value="基&lt;br&gt;于&lt;br&gt;人&lt;br&gt;机&lt;br&gt;协&lt;br&gt;同" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="476" y="435" width="28" height="159" as="geometry" />
+          <mxGeometry x="475" y="437" width="28" height="159" as="geometry" />
         </mxCell>
         <mxCell id="5Q7FV-45-rQ6y9RqwHLU-29" value="源&lt;br&gt;数&lt;br&gt;据&lt;br&gt;管&lt;br&gt;理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="516" y="435" width="28" height="159" as="geometry" />
+          <mxGeometry x="515" y="437" width="28" height="159" as="geometry" />
         </mxCell>
         <mxCell id="5Q7FV-45-rQ6y9RqwHLU-30" value="抽&lt;br&gt;取&lt;br&gt;结&lt;br&gt;果&lt;br&gt;管&lt;br&gt;理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="551" y="435" width="28" height="159" as="geometry" />
+          <mxGeometry x="550" y="437" width="28" height="159" as="geometry" />
         </mxCell>
         <mxCell id="5Q7FV-45-rQ6y9RqwHLU-31" value="模&lt;br&gt;型&lt;br&gt;超&lt;br&gt;参&lt;br&gt;管&lt;br&gt;理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="586" y="435" width="28" height="159" as="geometry" />
+          <mxGeometry x="585" y="437" width="28" height="159" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
