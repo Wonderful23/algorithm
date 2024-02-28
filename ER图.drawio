@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-28T09:36:13.435Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="eq0dlamXxXUGjGWvYRSv" version="23.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-28T09:38:08.211Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="0tm1INhWsIH6ZRUnOzCW" version="23.1.7" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="954" dy="240" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -346,9 +346,7 @@
             <Array as="points">
               <mxPoint x="434" y="795" />
               <mxPoint x="508" y="795" />
-              <mxPoint x="508" y="797" />
-              <mxPoint x="514" y="797" />
-              <mxPoint x="514" y="795" />
+              <mxPoint x="508" y="795" />
             </Array>
           </mxGeometry>
         </mxCell>
